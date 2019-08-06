@@ -1,6 +1,6 @@
 pool:
    name: 'MyAgentPool'
-  demands:
+   demands:
     - npm
 
 variables: 
